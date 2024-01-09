@@ -43,8 +43,8 @@ body {
    
   }
   .form-header {
-    background-color: #a9aaff;
-    color: #fff;
+    background-color: #a9aaff; /* Cambia el color de fondo según tus preferencias */
+    color: #fff; /* Cambia el color del texto para que contraste */
     margin-bottom: 50px; 
     margin-top: 0px;
     
@@ -59,7 +59,7 @@ body {
   
 
   .form-bottom {
-    color: #020202;
+    color: #020202; /* Cambia el color del texto para que contraste */
     margin-bottom: 0px; 
     margin-top: 0px;
     
@@ -97,7 +97,6 @@ body {
   }
   
   .singup-button {
-    margin-top: 10px;
     background-color: #fcfcfc;
     color: #070707;
     font-size: 16px;
